@@ -6,7 +6,11 @@
 
 #### Book examples
 - [struct Rectangles](/book/rectangles/src/main.rs)
+- [match Coin](book/coins/src/main.rs)
+- [plus_one](book/plus_one/src/main.rs)
+- [if let](book/if_let/src/main.rs)
 
 #### Exercises
+- [Temperature conversion](exercises/temperature_conversion/src/main.rs)
 - [Factorial](exercises/factorial/src/main.rs)
 - [Fibonacci](exercises/fibonacci/src/main.rs)
